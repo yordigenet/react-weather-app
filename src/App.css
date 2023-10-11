@@ -6,3 +6,11 @@
   margin-top: 40px;
   font-size: calc(10px + 2vmin);
 }
+
+.footer{
+  font-size: small;
+  margin-top: 50px;
+}
+a{
+  text-decoration: none;
+}
